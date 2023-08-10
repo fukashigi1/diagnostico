@@ -10,3 +10,4 @@ Prueba de diagnostico de Mathias Garthof para Desis.
 3. El archivo desis.sql debe iniciarse localmente en cualquier aplicación a conveniencia con cotejamiento utf8mb3_spanish2_ci, idealmente con nombre "desis". (Para el desarrollo de esta prueba, fué utilizado PhpMyAdmin en conjunto a Laragon).
 4. Entrar al archivo conexion.php ubicado en "/data/includes/conexion.php" y ajustar los parametros "servername", "username", "password" y "dbname", según la configuración de su base de datos.
 5. Si está utilizando Laragon, presione el botón de Start All y dirijase a "localhost/diagnostico/votacion/formulario.html" en su navegador.
+![image](https://github.com/fukashigi1/diagnostico/assets/82066248/263a7e93-e106-4c6f-914b-a8b843e9044d)
