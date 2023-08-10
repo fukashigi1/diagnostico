@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>FORMULARIO DE VOTACIÓN DESIS</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="../assets/js/script.js"></script>
+    <script src="../assets/js/cargador.js"></script>
+    <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body> 
+    <h2 style="padding-left: 0.3em;">FORMULARIO DE VOTACIÓN:</h2>
+    <form id="formularioVotacion" class="formEstilo">
+        <div class="bordeadoDiv">
+            <label class="paddingInput" for="nombreApellido">Nombre y Apellido</label>
+            <input type="text" id="nombreApellido" name="nombreApellido" required autofocus><br>
+
+            <label class="paddingInput" for="alias">Alias</label>
+            <input type="text" id="alias" name="alias" required ><br>
+
+            <label class="paddingInput" for="rut">RUT</label>
+            <input type="text" id="rut" name="rut" required><br>
+
+            <label class="paddingInput" for="email">Email</label>
+            <input type="email" id="email" name="email" required><br>
+
+            <label for="region">Región</label>
+            <select id="region" name="region" required></select><br>
+
+            <label for="comuna">Comuna</label>
+            <select id="comuna" name="comuna" required></select><br>
+
+            <label for="candidato">Candidato</label>
+            <select id="candidato" name="candidato" required></select><br>
+
+            <label>Cómo se enteró de nosotros</label>
+            <input type="checkbox" id="web" name="web" value="web">
+            Web
+            <input type="checkbox" id="tv" name="tv" value="tv">
+            TV
+            <input type="checkbox" id="redesSociales" name="redesSociales" value="redesSociales">
+            Redes Sociales
+            <input type="checkbox" id="amigo" name="amigo" value="amigo">
+            Amigo<br>
+            <button type="submit">Votar</button>
+        </div>
+    </form>
+    <div id="resultado" style="padding-left: 0.3em;"></div>
+</body>
+</html>

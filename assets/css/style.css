@@ -1,0 +1,26 @@
+body {
+    border: 1px solid #000;
+    padding-bottom: 0.5em;
+}
+.bordeadoDiv {
+    border: 1px solid #a7a7a7;
+    padding-left: 0.3em;
+    padding-bottom: 0.3em;
+    padding-top: 0.3em;
+}
+form {
+    line-height: 1.5;
+    padding-left: 0.3em;
+}
+form label {
+	width: 200px;
+	display:inline-block;
+}
+select {
+    width: 177px;
+    display:inline-block;
+}
+
+h2 {
+    font-family: calibri;
+}
