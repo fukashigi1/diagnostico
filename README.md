@@ -12,3 +12,4 @@ Prueba de diagnostico de Mathias Garthof para Desis.
 5. Si está utilizando Laragon, presione el botón de Start All y dirijase a "localhost/diagnostico/votacion/formulario.html" en su navegador.
 ![image](https://github.com/fukashigi1/diagnostico/assets/82066248/263a7e93-e106-4c6f-914b-a8b843e9044d)
 ![image](https://github.com/fukashigi1/diagnostico/assets/82066248/747f6c1c-c71e-4325-99d3-8f06ba6b9140)
+![image](https://github.com/fukashigi1/diagnostico/assets/82066248/92e07ecd-ad27-44e7-9d77-899ea8fa2ee7)
