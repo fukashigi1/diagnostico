@@ -1,8 +1,8 @@
 Prueba de diagnostico de Mathias Garthof para Desis.
 
-Version de PHP utilizada: 8.2.8
-Version de PhpMyAdmin utilizada: 5.2.0
-Version de Laragon utilizada: 6.0 220916
+* Version de PHP utilizada: 8.2.8
+* Version de PhpMyAdmin utilizada: 5.2.0
+* Version de Laragon utilizada: 6.0 220916
 
 1. La secuencia de pasos para la instalación y el uso:
 2. Clonar repositorio en directorio "C:\laragon\www" si se utiliza Laragon. o descargar mediante el link -> https://drive.google.com/drive/folders/18YX_paKyk5twuJUsUtW-lUrrkL2JN_VW?usp=drive_link
